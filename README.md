@@ -186,3 +186,5 @@ Creates a scatter plot to visually compare actual vs. predicted outcomes.
 This script builds a binary classification model that predicts whether a patient has diabetes based on health indicators. It uses logistic regression, evaluates its accuracy, and visualizes how well the model performs.
 
 **OUTPUT:**
+
+![Image](https://github.com/user-attachments/assets/6c1334c9-2354-4e5f-840a-87f3a4a43252)
